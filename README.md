@@ -22,7 +22,8 @@ npm install react-redux redux
 
 3. In your own words, describe the flow of how Redux is used to manage state.
 
-```Redux allows our components to store state and passed through as props
+```
+Redux allows our components to store state and passed through as props
 ```
 
 4. What do we use in order to manage different pieces of state?

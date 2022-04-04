@@ -11,43 +11,42 @@
 1. What is Redux?
 
 ```
-Answer Here
+Redux itself is a standalone library that can be used with any UI layer or framework, including React, Angular, Vue, Ember, and vanilla JS. Although Redux and React are commonly used together, they are independent of each other.
 ```
 
 2. What packages do we install to use Redux?
 
 ```
-Answer Here
+npm install react-redux redux
 ```
 
 3. In your own words, describe the flow of how Redux is used to manage state.
 
-```
-Answer Here
+```Redux allows our components to store state and passed through as props
 ```
 
 4. What do we use in order to manage different pieces of state?
 
 ```
-Answer Here
+Reducers
 ```
 
 5. What do we use to perform an update to state?
 
 ```
-Answer Here
+Actions
 ```
 
 6. How do we access state from Redux?
 
 ```
-Answer Here
+Types
 ```
 
 7. In your own words, describe how to set up Redux for a React App.
 
 ```
-Answer Here
+First, npm install react-redux "name of app". Next create a src folder, inside of that create three more folders. Components, Store, and Styles. Components refer to your different components on your webpage. Store holds your Reducers and Actions folders as well as your App.js and index.js. Styles is for styles. One created add boilerplate import exports and name your .JS files accordingly to your project. Good luck!
 ```
 
 ## Submission
